@@ -5,7 +5,7 @@ who completely transformed me! Made me a better person! I do really miss you, Ay
 Love ya both a bunch! :heart: 
 
 ```Python 
-Rule 1: This rule will help in re-wiring my brain from negative thoughts.Related to brain-in-a-vat.
+Rule 1: This rule will help in re-wiring my brain from negative thoughts.Similar to brain-in-a-vat.
                 str = " "
                 str.replace(" I can't ", "I will do it")
                               
